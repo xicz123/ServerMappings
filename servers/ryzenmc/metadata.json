@@ -1,7 +1,7 @@
 {
   "id": "ryzenmc",
   "name": "RyzenMC",
-  "description": "Competitive 1.21 PvP Practice server.",
+  "description": "Competitive 1.21 PvP Practice server with global regions (EU / NA / AS).",
   "addresses": [
     "ryzenmc.net"
   ],
